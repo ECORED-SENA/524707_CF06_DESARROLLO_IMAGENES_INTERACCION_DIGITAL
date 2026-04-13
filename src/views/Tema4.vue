@@ -22,7 +22,7 @@
           .row(titulo="Identificar puntos de confusión").ajuste-cajaAcordion
             p.mb-3 Se detectan discrepancias entre la lógica del sistema y la comprensión del usuario. Un caso frecuente ocurre cuando la terminología técnica no coincide con el lenguaje cotidiano, lo que obliga al usuario a explorar múltiples menús antes de encontrar la información requerida.
           .row(titulo="Detectar errores o pasos innecesarios").ajuste-cajaAcordion
-            p.mb-3 Se evalúa la eficiencia mediante el conteo de #[i clics] y el tiempo invertido en la tarea. Por ejemplo, solicitar información extensa e irrelevante antes de permitir la inscripción en un foro puede generar abandono del proceso.
+            p.mb-3 Se evalúa la eficiencia mediante el conteo de clics y el tiempo invertido en la tarea. Por ejemplo, solicitar información extensa e irrelevante antes de permitir la inscripción en un foro puede generar abandono del proceso.
           .row(titulo="Obtener evidencia para justificar mejoras").ajuste-cajaAcordion
             p.mb-3 La información recopilada puede ser cualitativa, como expresiones de frustración, o cuantitativa, como resultados de la Escala de Usabilidad del Sistema (#[i SUS]) o tasas de éxito en tareas. Estas evidencias permiten sustentar decisiones de rediseño.
           .row(titulo="Comparar el desempeño entre versiones o flujos").ajuste-cajaAcordion
@@ -40,7 +40,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Definición de objetivos (hipótesis de usabilidad)
-                p.mb-0 Los objetivos deben formularse como hipótesis verificables. Por ejemplo, evaluar si la arquitectura de información permite localizar el sílabo del curso en menos de tres #[i clics]. En contextos de accesibilidad, se analiza la interoperabilidad entre lectores de pantalla y componentes dinámicos como ventanas modales o alertas.
+                p.mb-0 Los objetivos deben formularse como hipótesis verificables. Por ejemplo, evaluar si la arquitectura de información permite localizar el sílabo del curso en menos de tres clics. En contextos de accesibilidad, se analiza la interoperabilidad entre lectores de pantalla y componentes dinámicos como ventanas modales o alertas.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img75.png', alt='' style="max-width: 500px").m-auto
@@ -124,23 +124,23 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Recorrido cognitivo]
-                    td.ajuste-border-tabla.texto-left Prototipos iniciales o #[i wireframes].
-                    td.ajuste-border-tabla.texto-left Bajo y rápido.
-                    td.ajuste-border-tabla.texto-left Diseñadores o responsables de producto.
-                    td.texto-left Problemas en la lógica del flujo y en la comprensión inicial del sistema.
+                    td.ajuste-border-tabla.texto-left Prototipos iniciales o #[i wireframes]
+                    td.ajuste-border-tabla.texto-left Bajo y rápido
+                    td.ajuste-border-tabla.texto-left Diseñadores o responsables de producto
+                    td.texto-left Problemas en la lógica del flujo y en la comprensión inicial del sistema
                   tr
                     td.ajuste-border-tabla.texto-left #[b Evaluación heurística]
                     td.ajuste-border-tabla.texto-left Interfaz terminada o en proceso de rediseño
-                    td.ajuste-border-tabla.texto-left Medio y moderado.
-                    td.ajuste-border-tabla.texto-left Entre tres y cinco expertos en usabilidad.
-                    td.texto-left Incumplimiento de estándares y deficiencias en principios de diseño.
+                    td.ajuste-border-tabla.texto-left Medio y moderado
+                    td.ajuste-border-tabla.texto-left Entre tres y cinco expertos en usabilidad
+                    td.texto-left Incumplimiento de estándares y deficiencias en principios de diseño
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Pruebas con usuarios]
-                    td.ajuste-border-tabla.texto-left Producto funcional en versión mínima viable (MVP) o fase beta.
-                    td.ajuste-border-tabla.texto-left Alto y más prolongado.
-                    td.ajuste-border-tabla.texto-left Usuarios reales del perfil objetivo.
-                    td.texto-left Evidencia del comportamiento real y detección de barreras de uso no previstas.
-        p.mb-5 El análisis comparativo de esta matriz permite comprender las ventajas y limitaciones de cada método de evaluación. 
+                    td.ajuste-border-tabla.texto-left Producto funcional en versión mínima viable (MVP) o fase beta
+                    td.ajuste-border-tabla.texto-left Alto y más prolongado
+                    td.ajuste-border-tabla.texto-left Usuarios reales del perfil objetivo
+                    td.texto-left Evidencia del comportamiento real y detección de barreras de uso no previstas
+        p.mb-5 El análisis comparativo de esta matriz permite comprender las ventajas y limitaciones de cada método de evaluación.
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/img83.jpg')})`}"

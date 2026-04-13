@@ -37,36 +37,36 @@
             tbody
               tr
                 td.ajuste-border-tabla.texto-left #[b M-01]
-                td.ajuste-border-tabla.texto-left Fallo en pasarela de pagos: el botón “Pagar” no responde en dispositivos móviles.
+                td.ajuste-border-tabla.texto-left Fallo en pasarela de pagos: el botón “Pagar” no responde en dispositivos móviles
                 td.ajuste-border-tabla 4
-                td.ajuste-border-tabla.texto-left Crítico: detiene ingresos directos.
+                td.ajuste-border-tabla.texto-left Crítico: detiene ingresos directos
                 td.ajuste-border-tabla.texto-left Bajo
                 td.ajuste-border-tabla.texto-left Inmediata
-                td.texto-left Corregir el evento #[i onclick] para interacción táctil.
+                td.texto-left Corregir el evento #[i onclick] para interacción táctil
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b M-02]
-                td.ajuste-border-tabla.texto-left Registro complejo: el formulario solicita quince campos antes de permitir el acceso.
+                td.ajuste-border-tabla.texto-left Registro complejo: el formulario solicita quince campos antes de permitir el acceso
                 td.ajuste-border-tabla 3
-                td.ajuste-border-tabla.texto-left Alto: afecta la conversión de nuevos usuarios.
+                td.ajuste-border-tabla.texto-left Alto: afecta la conversión de nuevos usuarios
                 td.ajuste-border-tabla.texto-left Medio
                 td.ajuste-border-tabla.texto-left Alta
-                td.texto-left Implementar registro social o reducir a campos esenciales.
+                td.texto-left Implementar registro social o reducir a campos esenciales
               tr
                 td.ajuste-border-tabla.texto-left #[b M-03]
-                td.ajuste-border-tabla.texto-left Iconografía inconsistente: los íconos de ayuda varían entre secciones.
+                td.ajuste-border-tabla.texto-left Iconografía inconsistente: los íconos de ayuda varían entre secciones
                 td.ajuste-border-tabla 1
-                td.ajuste-border-tabla.texto-left Bajo: no afecta la funcionalidad principal.
+                td.ajuste-border-tabla.texto-left Bajo: no afecta la funcionalidad principal
                 td.ajuste-border-tabla.texto-left Bajo
                 td.ajuste-border-tabla.texto-left Baja
-                td.texto-left Estandarizar el conjunto de íconos en el siguiente #[i sprint].
+                td.texto-left Estandarizar el conjunto de íconos en el siguiente #[i sprint]
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b M-04]
-                td.ajuste-border-tabla.texto-left Buscador ineficiente: no ofrece sugerencias durante la escritura.
+                td.ajuste-border-tabla.texto-left Buscador ineficiente: no ofrece sugerencias durante la escritura
                 td.ajuste-border-tabla 2
-                td.ajuste-border-tabla.texto-left Medio: impacta la retención y el uso de recursos.
+                td.ajuste-border-tabla.texto-left Medio: impacta la retención y el uso de recursos
                 td.ajuste-border-tabla.texto-left Alto
                 td.ajuste-border-tabla.texto-left Media
-                td.texto-left Integrar búsqueda con base de datos optimizada.
+                td.texto-left Integrar búsqueda con base de datos optimizada
         p.mb-5 La valoración del impacto se analiza según indicadores clave de desempeño (KPI), como generación de ingresos, satisfacción del usuario o eficiencia operativa. Asimismo, el esfuerzo técnico se define en coordinación con los equipos de desarrollo y tecnología.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -122,20 +122,20 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b I-01]
-                td.ajuste-border-tabla.texto-left El usuario no identifica el botón de confirmación.
-                td.ajuste-border-tabla.texto-left Expresa dudas y desplaza la pantalla varias veces.
+                td.ajuste-border-tabla.texto-left El usuario no identifica el botón de confirmación
+                td.ajuste-border-tabla.texto-left Expresa dudas y desplaza la pantalla varias veces
                 td.ajuste-border-tabla.texto-left 4
                 td.texto-left 3
               tr
                 td.ajuste-border-tabla.texto-left #[b I-02]
-                td.ajuste-border-tabla.texto-left Confusión entre iconos de cierre y retroceso.
-                td.ajuste-border-tabla.texto-left Selecciona la opción incorrecta y finaliza el proceso.
+                td.ajuste-border-tabla.texto-left Confusión entre iconos de cierre y retroceso
+                td.ajuste-border-tabla.texto-left Selecciona la opción incorrecta y finaliza el proceso
                 td.ajuste-border-tabla.texto-left 2
                 td.texto-left 4
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b I-03]
-                td.ajuste-border-tabla.texto-left Error en formato de fecha sin orientación.
-                td.ajuste-border-tabla.texto-left El sistema rechaza el dato sin indicar el formato requerido.
+                td.ajuste-border-tabla.texto-left Error en formato de fecha sin orientación
+                td.ajuste-border-tabla.texto-left El sistema rechaza el dato sin indicar el formato requerido
                 td.ajuste-border-tabla.texto-left 5
                 td.texto-left 2
     p.mb-5 La escala de severidad permite clasificar los hallazgos desde observaciones menores hasta fallos que impiden completar la tarea. Posteriormente, el experto analiza consecuencias, formula hipótesis sobre la causa del problema y propone recomendaciones de mejora.
@@ -182,8 +182,8 @@
           figure
             img(src='@/assets/curso/temas/img87.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
-          h4 Estructura del Cuestionario SUS
-          p.mb-0 Se invita a revisar el documento #[b Estructura del Cuestionario SUS], donde se explica el uso, la escala de valoración y el cálculo del puntaje SUS. Este material ofrece #[b orientaciones y ejemplo práctico], con el fin de #[b apoyar la evaluación de usabilidad]. 
+          h4 Estructura del cuestionario SUS
+          p.mb-0 Se invita a revisar el documento #[b Estructura del cuestionario SUS], donde se explica el uso, la escala de valoración y el cálculo del puntaje SUS. Este material ofrece #[b orientaciones y ejemplos prácticos], con el fin de #[b apoyar la evaluación de usabilidad]. 
         .col-xl-2
           a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
             span Descargar
@@ -194,7 +194,7 @@
           img(src="@/assets/curso/temas/img85.svg" style="max-width: 60px").m-auto
       .col
         h3 Guion del moderador o #[i script] de prueba
-    p.mb-5 Documento que estandariza las intervenciones del evaluador para evitar influencias indebidas en el comportamiento del usuario. Incluye técnicas como #[i echoing], que consiste en repetir las expresiones del participante para estimular la verbalización de su experiencia.
+    p.mb-5 Documento que estandariza las intervenciones del evaluador para evitar influencias indebidas en el comportamiento del usuario. Incluye técnicas como el #[i echoing], que consiste en repetir las expresiones del participante para estimular la verbalización de su experiencia.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -234,7 +234,7 @@
           .row(titulo="Matriz de recomendaciones y priorización").ajuste-cajaAcordion
             p.mb-3 Esta matriz organiza las acciones de mejora según su impacto y su viabilidad técnica, lo cual facilita la planificación estratégica del rediseño. Contempla la temporalidad de las intervenciones (corto, mediano o largo plazo), la recomendación específica que se propone implementar, el nivel de severidad o impacto asociado al hallazgo, el costo técnico estimado y la descripción detallada de la solución sugerida, como la optimización de elementos de interfaz, la simplificación de flujos de interacción o el rediseño de la arquitectura de navegación.
           .row(titulo="Conclusiones y próximos pasos").ajuste-cajaAcordion
-            p.mb-3 El informe finaliza con una síntesis del impacto general de la experiencia de usuario y con orientaciones para las siguientes iteraciones del producto. Incluye un resumen de la experiencia que describe la percepción global del usuario frente a la interacción con el sistema. Asimismo, presenta un plan de iteración que define el momento oportuno para realizar nuevas pruebas de usabilidad después de implementar las mejoras propuestas, con el fin de asegurar procesos de optimización continúa sustentados en evidencia.
+            p.mb-3 El informe finaliza con una síntesis del impacto general de la experiencia de usuario y con orientaciones para las siguientes iteraciones del producto. Incluye un resumen de la experiencia que describe la percepción global del usuario frente a la interacción con el sistema. Asimismo, presenta un plan de iteración que define el momento oportuno para realizar nuevas pruebas de usabilidad después de implementar las mejoras propuestas, con el fin de asegurar procesos de optimización continua sustentados en evidencia.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img50.png", alt="" ).m-auto 
@@ -261,25 +261,25 @@
                     td.ajuste-border-tabla.texto-left Optimización del botón de descarga
                     td.ajuste-border-tabla.texto-left Moderada
                     td.ajuste-border-tabla.texto-left Bajo
-                    td.texto-left Implementar alto contraste cromático, icono descriptivo y ubicación visible.
+                    td.texto-left Implementar alto contraste cromático, icono descriptivo y ubicación visible
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Corto plazo]
                     td.ajuste-border-tabla.texto-left Simplificación del flujo de registro
                     td.ajuste-border-tabla.texto-left Alta
                     td.ajuste-border-tabla.texto-left Bajo o medio
-                    td.texto-left Reducir campos solicitados e integrar indicador de progreso.
+                    td.texto-left Reducir campos solicitados e integrar indicador de progreso
                   tr
                     td.ajuste-border-tabla.texto-left #[b Mediano plazo]
                     td.ajuste-border-tabla.texto-left Rediseño de la arquitectura de navegación
                     td.ajuste-border-tabla.texto-left Crítica
                     td.ajuste-border-tabla.texto-left Medio
-                    td.texto-left Sustituir menús densos por estructuras jerárquicas laterales.
+                    td.texto-left Sustituir menús densos por estructuras jerárquicas laterales
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Largo plazo]
                     td.ajuste-border-tabla.texto-left Módulo de seguimiento individual
                     td.ajuste-border-tabla.texto-left Nueva funcionalidad
                     td.ajuste-border-tabla.texto-left Alto
-                    td.texto-left Incorporar panel personalizado con indicadores de avance y logros.
+                    td.texto-left Incorporar panel personalizado con indicadores de avance y logros
         p.mb-5 A continuación, se presenta un ejemplo de dashboard que sintetiza los resultados del análisis cuantitativo de usabilidad, destacando indicadores de desempeño, tiempos de ejecución, nivel de satisfacción y prioridades de mejora.
         .row.justify-content-center
           .col-xl-10

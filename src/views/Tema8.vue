@@ -16,14 +16,14 @@
               .col-xl-6.mb-4
                 h4 Orden lógico de lectura
                 p Se debe comprobar que la secuencia de la información tenga coherencia pedagógica. Una forma de validarlo consiste en desactivar los estilos CSS para analizar la lectura lineal del documento.
-                p.mb-0 #[b Ejemplo]. El título de un tema debe aparecer antes que la actividad o el botón de envío. También se recomienda verificar que los encabezados #[b &lt;h1&gt; a &lt;h6&gt;] mantengan una jerarquía progresiva sin saltos de nivel.
+                p.mb-0 #[b Ejemplo]: el título de un tema debe aparecer antes que la actividad o el botón de envío. También se recomienda verificar que los encabezados #[b &lt;h1&gt; a &lt;h6&gt;] mantengan una jerarquía progresiva sin saltos de nivel.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img131.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Estados visibles de los controles
-                p.mb-0 Es necesario confirmar que el usuario pueda identificar en todo momento qué elemento tiene el foco. Un botón accesible debe cambiar claramente su apariencia en estados como: #[b #[i hover, focus y active]], evitando indicadores imperceptibles o inexistentes.
+                p.mb-0 Es necesario confirmar que el usuario pueda identificar en todo momento qué elemento tiene el foco. Un botón accesible debe cambiar claramente su apariencia en estados como #[b #[i hover, focus y active]], evitando indicadores imperceptibles o inexistentes.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img132.png', alt='' style="max-width: 500px").m-auto
@@ -31,14 +31,14 @@
               .col-xl-6.mb-4
                 h4 Contraste entre texto y fondo
                 p La revisión manual permite analizar el contraste en estados dinámicos. Puede ocurrir que un enlace sea legible en reposo, pero pierda visibilidad al cambiar de color durante la interacción. También deben evaluarse iconos, bordes de campos y otros elementos gráficos.
-                p.mb-0 #[b Ejemplo]. Un enlace azul sobre fondo blanco que al ponerle el cursor encima cambia a un azul más claro que ya no es legible.
+                p.mb-0 #[b Ejemplo]: un enlace azul sobre fondo blanco que, al ponerle el cursor encima, cambia a un azul más claro que ya no es legible.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img133.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Funcionamiento sin uso del ratón
-                p.mb-0 La navegación debe realizarse únicamente mediante teclado utilizando Tab, Shift + Tab, Enter, barra espaciadora o flechas de dirección. Esta verificación permite identificar bloqueos de foco o recorridos sin salida.
+                p.mb-0 La navegación debe realizarse únicamente mediante teclado, utilizando Tab, Shift + Tab, Enter, barra espaciadora o flechas de dirección. Esta verificación permite identificar bloqueos de foco o recorridos sin salida.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img134.png', alt='' style="max-width: 500px").m-auto
@@ -46,7 +46,7 @@
               .col-xl-6.mb-4
                 h4 Claridad de mensajes y retroalimentación
                 p Los mensajes del sistema deben emplear lenguaje sencillo y ofrecer confirmaciones comprensibles. 
-                p.mb-0 #[b Ejemplo]. Tras enviar una tarea, debe aparecer un mensaje que diga: "#[b Tarea enviada con éxito. Recibirás la nota en 48 horas]", en lugar de un código técnico como "Status: 200 OK".
+                p.mb-0 #[b Ejemplo]: tras enviar una tarea, debe aparecer un mensaje que diga: "#[b Tarea enviada con éxito. Recibirás la nota en 48 horas]", en lugar de un código técnico como "Status: 200 OK".
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img135.png', alt='' style="max-width: 500px").m-auto
@@ -54,7 +54,7 @@
               .col-xl-6.mb-4
                 h4 Consistencia en la identificación de componentes
                 p Los iconos o controles que cumplen la misma función deben mantener denominación y representación visual uniforme en todo el producto.
-                p.mb-0 #[b Ejemplo]. Si el icono de "ajustes" es una tuerca en una página, no debe ser un engranaje diferente o una palabra distinta en otra sección.
+                p.mb-0 #[b Ejemplo]: si el icono de "ajustes" es una tuerca en una página, no debe ser un engranaje diferente o una palabra distinta en otra sección.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img136.png', alt='' style="max-width: 500px").m-auto
@@ -62,7 +62,7 @@
               .col-xl-6.mb-4
                 h4 Claridad del propósito del enlace
                 p Los enlaces deben tener significado propio sin depender del contexto inmediato. Es recomendable sustituir expresiones genéricas por descripciones específicas de la acción, como indicar la descarga de un recurso determinado.
-                p.mb-0 #[b Ejemplo]. Cambiar "Haz clic aquí" por "Descargar guía de accesibilidad en PDF".
+                p.mb-0 #[b Ejemplo]: cambiar "Haz clic aquí" por "Descargar guía de accesibilidad en PDF".
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img137.png', alt='' style="max-width: 500px").m-auto
@@ -70,7 +70,7 @@
               .col-xl-6.mb-4
                 h4 Redimensionamiento del texto
                 p Al aplicar niveles de ampliación entre el 200 % y el 400 %, el contenido no debe superponerse ni desaparecer. Los contenedores deben reorganizarse de forma flexible. 
-                p.mb-0 #[b Ejemplo]. Al poner el zoom al 200 %, el menú de navegación debe convertirse en un menú hamburguesa o reorganizarse verticalmente sin perder funciones.
+                p.mb-0 #[b Ejemplo]: al poner el zoom al 200 %, el menú de navegación debe convertirse en un menú hamburguesa o reorganizarse verticalmente sin perder funciones.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img138.png', alt='' style="max-width: 500px").m-auto

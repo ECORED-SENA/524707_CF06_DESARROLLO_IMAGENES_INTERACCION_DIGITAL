@@ -28,7 +28,7 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: ' interactividad se define como:',
+          texto: 'La interactividad se define como:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -443,7 +443,7 @@ export default {
             {
               id: 'c',
               texto: 'La facilidad de aprendizaje del usuario.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'd',

@@ -158,7 +158,7 @@
               img(src='@/assets/curso/temas/img42.svg', alt='' style="max-width: 100px")
           .col
             h2 Del usuario
-        p.mb-0 Se generan a partir de acciones directas como #[i clic], desplazamiento mediante #[i scroll], estado #[i hover], selección de opciones, escritura en campos de texto o envío de formularios.
+        p.mb-0 Se generan a partir de acciones directas como clic, desplazamiento mediante #[i scroll], estado #[i hover], selección de opciones, escritura en campos de texto o envío de formularios.
       .col-xl-6.col-md-10.tarjeta.color-acento-contenido.p-5
         .row.d-flex.align-items-end.mb-4
           .col-auto(data-aos="fade-right")
@@ -251,13 +251,13 @@
                 tbody
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Inicio]
-                    td.ajuste-border-tabla.texto-left #[i Clic] en “Comenzar”
+                    td.ajuste-border-tabla.texto-left Clic en “Comenzar”
                     td.ajuste-border-tabla.texto-left Dirige a la lección 1
                     td.ajuste-border-tabla.texto-left Activo
                     td.texto-left Cambio de color y sonido breve
                   tr
                     td.ajuste-border-tabla.texto-left #[b Lección]
-                    td.ajuste-border-tabla.texto-left #[i Clic] en ícono de información
+                    td.ajuste-border-tabla.texto-left Clic en ícono de información
                     td.ajuste-border-tabla.texto-left Presenta ventana emergente
                     td.ajuste-border-tabla.texto-left Activo
                     td.texto-left Mensaje contextual

@@ -81,174 +81,174 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left #[b Visibilidad del estado del sistema]
-                    td.ajuste-border-tabla.texto-left El sistema debe informar de manera continua lo que está ocurriendo.
+                    td.ajuste-border-tabla.texto-left El sistema debe informar de manera continua lo que está ocurriendo
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Retroalimentación clara y oportuna.
+                          | Retroalimentación clara y oportuna
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Estados visibles.
+                          | Estados visibles
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Indicadores de carga.
+                          | Indicadores de carga
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Correspondencia con el mundo real]
-                    td.ajuste-border-tabla.texto-left La interfaz debe emplear un lenguaje familiar y comprensible para el usuario.
+                    td.ajuste-border-tabla.texto-left La interfaz debe emplear un lenguaje familiar y comprensible para el usuario
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Uso de lenguaje natural.
+                          | Uso de lenguaje natural
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Metáforas intuitivas.
+                          | Metáforas intuitivas
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Reducción de jerga técnica.
+                          | Reducción de jerga técnica
                   tr
                     td.ajuste-border-tabla.texto-left #[b Prevención de errores]
-                    td.ajuste-border-tabla.texto-left El diseño debe anticiparse a posibles fallos y evitarlos desde la configuración de la interfaz.
+                    td.ajuste-border-tabla.texto-left El diseño debe anticiparse a posibles fallos y evitarlos desde la configuración de la interfaz
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Confirmación de acciones críticas.
+                          | Confirmación de acciones críticas
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Evitar modos ambiguos.
+                          | Evitar modos ambiguos
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Orientación preventiva.
+                          | Orientación preventiva
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Consistencia y estándares]
-                    td.ajuste-border-tabla.texto-left Los componentes deben seguir convenciones reconocidas y mantener coherencia visual y funcional.
+                    td.ajuste-border-tabla.texto-left Los componentes deben seguir convenciones reconocidas y mantener coherencia visual y funcional
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Uso consistente de colores y tipografía.
+                          | Uso consistente de colores y tipografía
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Aplicación de patrones de diseño comunes.
+                          | Aplicación de patrones de diseño comunes
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Vocabulario unificado.
+                          | Vocabulario unificado
                   tr
                     td.ajuste-border-tabla.texto-left #[b Control y libertad del usuario]
-                    td.ajuste-border-tabla.texto-left El usuario debe contar con opciones claras para deshacer acciones o abandonar procesos.
+                    td.ajuste-border-tabla.texto-left El usuario debe contar con opciones claras para deshacer acciones o abandonar procesos
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Funciones de deshacer o rehacer.
+                          | Funciones de deshacer o rehacer
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Opciones de salida visibles.
+                          | Opciones de salida visibles
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Evitar recorridos obligatorios.
+                          | Evitar recorridos obligatorios
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Reconocimiento antes que recuerde]
-                    td.ajuste-border-tabla.texto-left Las acciones y opciones deben estar disponibles de forma visible para reducir la carga de memoria.
+                    td.ajuste-border-tabla.texto-left Las acciones y opciones deben estar disponibles de forma visible para reducir la carga de memoria
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Menús claros.
+                          | Menús claros
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Opciones accesibles.
+                          | Opciones accesibles
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Información permanente en pantalla.
+                          | Información permanente en pantalla
                   tr
                     td.ajuste-border-tabla.texto-left #[b Flexibilidad y eficiencia de uso]
-                    td.ajuste-border-tabla.texto-left La interfaz debe adaptarse tanto a usuarios principiantes como a usuarios expertos.
+                    td.ajuste-border-tabla.texto-left La interfaz debe adaptarse tanto a usuarios principiantes como a usuarios expertos
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Atajos de teclado.
+                          | Atajos de teclado
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Configuraciones personalizables.
+                          | Configuraciones personalizables
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Flujos optimizados.
+                          | Flujos optimizados
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Diseño estético y minimalista]
-                    td.ajuste-border-tabla.texto-left Se debe evitar la sobrecarga de información irrelevante que dificulte la interacción.
+                    td.ajuste-border-tabla.texto-left Se debe evitar la sobrecarga de información irrelevante que dificulte la interacción
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Uso adecuado del espacio en blanco.
+                          | Uso adecuado del espacio en blanco
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Jerarquía visual clara.
+                          | Jerarquía visual clara
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Reducción del ruido visual.
+                          | Reducción del ruido visual
                   tr
                     td.ajuste-border-tabla.texto-left #[b Ayuda para reconocer y recuperarse de errores]
-                    td.ajuste-border-tabla.texto-left Los mensajes de error deben ser comprensibles y ofrecer alternativas de solución.
+                    td.ajuste-border-tabla.texto-left Los mensajes de error deben ser comprensibles y ofrecer alternativas de solución
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Lenguaje claro y no técnico.
+                          | Lenguaje claro y no técnico
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Explicación del problema.
+                          | Explicación del problema
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Sugerencias correctivas.
+                          | Sugerencias correctivas
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Ayuda y documentación]
-                    td.ajuste-border-tabla.texto-left El sistema debe proporcionar soporte accesible cuando el usuario lo requiera.
+                    td.ajuste-border-tabla.texto-left El sistema debe proporcionar soporte accesible cuando el usuario lo requiera
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Documentación fácil de localizar.
+                          | Documentación fácil de localizar
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Información organizada.
+                          | Información organizada
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Ayuda contextual.
+                          | Ayuda contextual
     <!------------------------------------------ SUBTEMA 4 ------------------------------------------>
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -310,7 +310,7 @@
                 .row.justify-content-center.mb-3
                   .col-8
                     img(src='@/assets/curso/temas/img61.svg' style="max-width: 90px").m-auto
-                h4.mb-3.estilo-text Exceso de #[i clics] para tareas sencillas
+                h4.mb-3.estilo-text Exceso de clics para tareas sencillas
                 p.mb-0.text-center Evidencia recorridos innecesariamente complejos que afectan la eficiencia.
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3

@@ -207,7 +207,7 @@ export default {
           },
           {
             numero: '6.4',
-            titulo: 'Principios POUR',
+            titulo: 'Los principios POUR (base de WCAG 2.1)',
             hash: 't_6_4',
           },
           {
@@ -294,9 +294,9 @@ export default {
   },
   glosario: [
     {
-      termino: 'Aria',
+      termino: 'ARIA',
       significado:
-        'atributos que mejoran la accesibilidad de interfaces <em>web</em> para tecnologías de asistencia. estándar WAI-ARIA.',
+        'atributos que mejoran la accesibilidad de interfaces web para tecnologías de asistencia. Estándar WAI-ARIA.',
     },
     {
       termino: '<em>Backend</em>',
@@ -304,9 +304,9 @@ export default {
         'parte del sistema que gestiona la lógica, los datos y los procesos internos.',
     },
     {
-      termino: '<em>Dom</em>',
+      termino: 'DOM',
       significado:
-        'se refiere al modelo de objetos del documento (<em>document object model</em>), la estructura jerárquica en árbol que el navegador crea al interpretar el <em>HTML</em> de una <em>web</em>. las tecnologías asistidas, como lectores de pantalla, interpretan este árbol para comprender el contenido, el orden y el propósito.',
+        'se refiere al modelo de objetos del documento (<em>document object model</em>), la estructura jerárquica en árbol que el navegador crea al interpretar el <em>HTML</em> de una web. Las tecnologías asistidas, como lectores de pantalla, interpretan este árbol para comprender el contenido, el orden y el propósito.',
     },
     {
       termino: '<em>Frontend</em>',
@@ -334,7 +334,7 @@ export default {
         'condiciones que afectan el equilibrio y pueden generar mareo ante movimientos o animaciones.',
     },
     {
-      termino: '<em>Ux</em>',
+      termino: 'UX',
       significado:
         'experiencia global del usuario al interactuar con un producto digital.',
     },

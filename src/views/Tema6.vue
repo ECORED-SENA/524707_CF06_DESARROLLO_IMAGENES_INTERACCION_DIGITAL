@@ -24,140 +24,140 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left #[b Inclusión visual]
-                    td.ajuste-border-tabla.texto-left Facilita el acceso para personas con discapacidad visual mediante recursos de apoyo en la interfaz.
+                    td.ajuste-border-tabla.texto-left Facilita el acceso para personas con discapacidad visual mediante recursos de apoyo en la interfaz
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Lectores de pantalla optimizados.
+                          | Lectores de pantalla optimizados
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Contraste cromático elevado.
+                          | Contraste cromático elevado
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Texto alternativo en imágenes.
+                          | Texto alternativo en imágenes
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Inclusión auditiva]
-                    td.ajuste-border-tabla.texto-left Proporciona alternativas al contenido sonoro para garantizar comprensión del mensaje.
+                    td.ajuste-border-tabla.texto-left Proporciona alternativas al contenido sonoro para garantizar comprensión del mensaje
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Subtítulos en materiales audiovisuales.
+                          | Subtítulos en materiales audiovisuales
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Transcripciones de audio.
+                          | Transcripciones de audio
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Notificaciones visuales complementarias.
+                          | Notificaciones visuales complementarias
                   tr
                     td.ajuste-border-tabla.texto-left #[b Inclusión motora]
-                    td.ajuste-border-tabla.texto-left Permite la interacción mediante dispositivos o métodos distintos al uso convencional del ratón.
+                    td.ajuste-border-tabla.texto-left Permite la interacción mediante dispositivos o métodos distintos al uso convencional del ratón
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Navegación mediante teclado.
+                          | Navegación mediante teclado
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Atajos configurables.
+                          | Atajos configurables
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Evitar límites de tiempo restrictivos.
+                          | Evitar límites de tiempo restrictivos
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Inclusión cognitiva]
-                    td.ajuste-border-tabla.texto-left Promueve la claridad estructural y conceptual del contenido para facilitar la comprensión.
+                    td.ajuste-border-tabla.texto-left Promueve la claridad estructural y conceptual del contenido para facilitar la comprensión
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Lenguaje sencillo.
+                          | Lenguaje sencillo
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Diseño intuitivo.
+                          | Diseño intuitivo
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Reducción de estímulos distractores.
+                          | Reducción de estímulos distractores
                   tr
                     td.ajuste-border-tabla.texto-left #[b Texto alternativo y descripciones]
-                    td.ajuste-border-tabla.texto-left Garantiza que los elementos no textuales cuenten con información descriptiva contextual.
+                    td.ajuste-border-tabla.texto-left Garantiza que los elementos no textuales cuenten con información descriptiva contextual
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Descripciones precisas.
+                          | Descripciones precisas
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Uso adecuado de texto alternativo.
+                          | Uso adecuado de texto alternativo
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Contextualización del contenido visual.
+                          | Contextualización del contenido visual
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Tamaño de texto y tipografía]
-                    td.ajuste-border-tabla.texto-left Asegura condiciones de legibilidad en diferentes dispositivos y contextos de uso.
+                    td.ajuste-border-tabla.texto-left Asegura condiciones de legibilidad en diferentes dispositivos y contextos de uso
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Tipografías limpias tipo #[i sans-serif].
+                          | Tipografías limpias tipo #[i sans-serif]
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Tamaño ajustable.
+                          | Tamaño ajustable
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Contraste suficiente.
+                          | Contraste suficiente
                   tr
                     td.ajuste-border-tabla.texto-left #[b Apoyo a la navegación]
-                    td.ajuste-border-tabla.texto-left Orienta al usuario dentro de la estructura del contenido digital.
+                    td.ajuste-border-tabla.texto-left Orienta al usuario dentro de la estructura del contenido digital
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Menús comprensibles.
+                          | Menús comprensibles
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Indicadores de foco visibles.
+                          | Indicadores de foco visibles
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Evitar componentes ocultos sin señalización.
+                          | Evitar componentes ocultos sin señalización
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Asistencia y documentación]
-                    td.ajuste-border-tabla.texto-left Proporciona soporte accesible para resolver dudas o dificultades de interacción.
+                    td.ajuste-border-tabla.texto-left Proporciona soporte accesible para resolver dudas o dificultades de interacción
                     td.texto-left 
                       ul.fa-ul.estilo___ul.mb-0
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Área de ayuda accesible.
+                          | Área de ayuda accesible
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Canales de soporte.
+                          | Canales de soporte
                         li.mb-0
                           span.fa-li
                             i.fas.fa-arrow-alt-circle-right
-                          | Documentación clara y organizada.
+                          | Documentación clara y organizada
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     Separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -216,43 +216,43 @@
               tr
                 td.ajuste-border-tabla.texto-left #[b Visibilidad del estado del sistema]
                 td.ajuste-border-tabla.texto-left Apoyo a la navegación e inclusión visual
-                td.texto-left La claridad del estado del sistema se fortalece mediante indicadores accesibles y menús comprensibles.
+                td.texto-left La claridad del estado del sistema se fortalece mediante indicadores accesibles y menús comprensibles
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Correspondencia con el mundo real]
                 td.ajuste-border-tabla.texto-left Inclusión cognitiva
-                td.texto-left Ambos enfoques promueven lenguaje sencillo y estructuras intuitivas.
+                td.texto-left Ambos enfoques promueven lenguaje sencillo y estructuras intuitivas
               tr
                 td.ajuste-border-tabla.texto-left #[b Prevención de errores]
                 td.ajuste-border-tabla.texto-left Ayuda para reconocer y recuperar errores
-                td.texto-left La accesibilidad incorpora mensajes comprensibles y formatos alternativos de orientación.
+                td.texto-left La accesibilidad incorpora mensajes comprensibles y formatos alternativos de orientación
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Consistencia y estándares]
                 td.ajuste-border-tabla.texto-left Tamaño de texto y descripciones alternativas
-                td.texto-left La coherencia del diseño se refleja en criterios de legibilidad y uniformidad descriptiva.
+                td.texto-left La coherencia del diseño se refleja en criterios de legibilidad y uniformidad descriptiva
               tr
                 td.ajuste-border-tabla.texto-left #[b Control y libertad del usuario]
                 td.ajuste-border-tabla.texto-left Inclusión motora
-                td.texto-left La posibilidad de deshacer acciones se complementa con navegación flexible mediante distintos dispositivos.
+                td.texto-left La posibilidad de deshacer acciones se complementa con navegación flexible mediante distintos dispositivos
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Reconocimiento antes que recuerde]
                 td.ajuste-border-tabla.texto-left Apoyo a la navegación
-                td.texto-left Las opciones visibles reducen la carga cognitiva y favorecen el acceso inclusivo.
+                td.texto-left Las opciones visibles reducen la carga cognitiva y favorecen el acceso inclusivo
               tr
                 td.ajuste-border-tabla.texto-left #[b Flexibilidad y eficiencia de uso]
                 td.ajuste-border-tabla.texto-left Inclusión motora e inclusión auditiva
-                td.texto-left Los atajos y flujos eficientes se relacionan con el uso de múltiples formas de interacción.
+                td.texto-left Los atajos y flujos eficientes se relacionan con el uso de múltiples formas de interacción
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Diseño estético y minimalista]
                 td.ajuste-border-tabla.texto-left Inclusión cognitiva
-                td.texto-left La reducción de estímulos innecesarios facilita la comprensión y la orientación.
+                td.texto-left La reducción de estímulos innecesarios facilita la comprensión y la orientación
               tr
                 td.ajuste-border-tabla.texto-left #[b Ayuda para reconocer y recuperarse de errores]
                 td.ajuste-border-tabla.texto-left Inclusión visual y auditiva
-                td.texto-left Los mensajes de orientación deben estar disponibles en formatos accesibles.
+                td.texto-left Los mensajes de orientación deben estar disponibles en formatos accesibles
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left #[b Ayuda y documentación]
                 td.ajuste-border-tabla.texto-left Asistencia y documentación
-                td.texto-left Ambos principios coinciden en ofrecer soporte claro y contextual para el usuario.
+                td.texto-left Ambos principios coinciden en ofrecer soporte claro y contextual para el usuario
     p.mb-0 La integración de usabilidad y accesibilidad fortalece la calidad de los productos multimedia y contribuye al desarrollo de experiencias digitales inclusivas y funcionales.
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
@@ -289,22 +289,23 @@
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 ISO/IEC 40500
             p.mb-0 Norma internacional que constituye el equivalente técnico de WCAG 2.0 y proporciona lineamientos formales para la implementación de criterios de accesibilidad en entornos digitales.
+    p.mb-5 En contextos educativos y formativos, el nivel #[b AA] suele adoptarse como referencia principal para el diseño de interfaces y recursos multimedia, ya que equilibra viabilidad técnica y alcance inclusivo.
     .box___style_7.mb-0(data-aos="flip-up")
       .row.align-items-center
         .col-xl-auto.mb-4.mb-lg-0(data-aos="fade-right")
           figure
             img(src='@/assets/curso/temas/img87.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
-          h4 ISO / IEC 40500:2025 (Accesibilidad #[i Web])
-          p.mb-0 Se invita a consultar el estándar #[b ISO/IEC 40500:2025], publicado en septiembre de 2025, que presenta lineamientos actualizados sobre accesibilidad #[i web]. Ideal para #[b diseño y evaluación de productos digitales inclusivos].
+          h4 ISO / IEC 40500:2025 (Accesibilidad web)
+          p.mb-0 Se invita a consultar el estándar #[b ISO/IEC 40500:2025], publicado en septiembre de 2025, que presenta lineamientos actualizados sobre accesibilidad web. Ideal para #[b diseño y evaluación de productos digitales inclusivos].
         .col-xl-2
           a.boton.color-acento-botones.texto-negro(:href="('https://www.iso.org/obp/ui/en/#iso:std:iso-iec:40500:ed-2:v1:en')" target="_blank" type="website")
-            span Abrir #[i web]
+            span Abrir web
             i.fas.fa-external-link
     <!------------------------------------------ SUBTEMA 3 ------------------------------------------>
     Separador
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 6.3 La inclusión digital como política de estado
+      h2 6.3 La inclusión digital como política de Estado
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -330,7 +331,7 @@
                   img(src='@/assets/curso/temas/img94.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Estándares de accesibilidad #[i web]
+                h4 Estándares de accesibilidad web
                 p.mb-0 Emisión de lineamientos y decretos que obligan a las entidades públicas a garantizar la accesibilidad de sus portales institucionales conforme a pautas internacionales.
               .col-xl-6
                 figure
@@ -365,14 +366,14 @@
           .row(titulo="Constitución Política de Colombia (Artículo 13)").ajuste-cajaAcordion
             p.mb-3 Establece la obligación del Estado de promover condiciones que garanticen la igualdad real y efectiva, con especial protección para personas en situación de vulnerabilidad.
           .row(titulo="Ley 1618 de 2013").ajuste-cajaAcordion
-            p.mb-3 Define medidas para asegurar el pleno ejercicio de los derechos de las personas con discapacidad. Incluye disposiciones orientadas al acceso a la información y a la fijación de estándares de accesibilidad en sitios #[i web] estatales.
+            p.mb-3 Define medidas para asegurar el pleno ejercicio de los derechos de las personas con discapacidad. Incluye disposiciones orientadas al acceso a la información y a la fijación de estándares de accesibilidad en sitios web estatales.
           .row(titulo="Ley 1346 de 2009").ajuste-cajaAcordion
             p.mb-3 Incorpora al ordenamiento jurídico colombiano la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad, fortaleciendo la garantía de inclusión y participación en entornos digitales.
     p.mb-0 La consolidación de la accesibilidad digital como política pública contribuye al desarrollo de entornos tecnológicos inclusivos, al fortalecimiento de la participación ciudadana y a la reducción de brechas sociales en el acceso a la información.
     <!------------------------------------------ SUBTEMA 4 ------------------------------------------>
     Separador
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 6.4 Principios POUR
+      h2 6.4 Los principios POUR (base de WCAG 2.1)
     p.mb-5 Los principios POUR constituyen la base conceptual de las pautas de accesibilidad WCAG 2.1. Estos principios establecen que todo contenido digital debe ser perceptible, operable, comprensible y robusto, garantizando así condiciones de interacción inclusiva para diversos perfiles de usuario. Estos principios y sus implicaciones en el diseño de productos multimedia se estructuran en la siguiente organización comparativa:
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Perceptible")
@@ -414,7 +415,7 @@
             img(src='@/assets/curso/temas/img87.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Recursos y conformidad 
-          p.mb-0 A continuación, se presentan algunos criterios y ejemplos de #[b recursos digitales accesibles], orientados a garantizar su conformidad con los principios POUR y los niveles establecidos por las WCAG .
+          p.mb-0 A continuación, se presentan algunos criterios y ejemplos de #[b recursos digitales accesibles], orientados a garantizar su conformidad con los principios POUR y los niveles establecidos por las WCAG.
         .col-xl-2
           a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo.pdf')" target="_blank" type="application/pdf")
             span Descargar
@@ -426,10 +427,10 @@
             img(src='@/assets/curso/temas/img87.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Guía WCAG
-          p.mb-0 Se invita a consultar la #[b guía WCAG], donde se presentan orientaciones prácticas para comprender y aplicar los criterios de accesibilidad #[i web]. Ideal para #[b diseño, evaluación y mejora de contenidos digitales inclusivos].
+          p.mb-0 Se invita a consultar la #[b guía WCAG], donde se presentan orientaciones prácticas para comprender y aplicar los criterios de accesibilidad web. Ideal para #[b diseño, evaluación y mejora de contenidos digitales inclusivos].
         .col-xl-2
           a.boton.color-acento-botones.texto-negro(:href="(' https://guia-wcag.com/es/')" target="_blank" type="website")
-            span Abrir #[i web]
+            span Abrir web
             i.fas.fa-external-link
     <!------------------------------------------ SUBTEMA 5 ------------------------------------------>
     Separador
@@ -465,7 +466,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Garantizar contraste adecuado
-                p.mb-0 Es necesario asegurar relaciones de contraste mínimas entre texto y fondo para favorecer la legibilidad. Por ejemplo, evitar combinaciones de baja luminancia como texto gris claro sobre fondo blanco.
+                p.mb-0 Es necesario asegurar relaciones de contraste mínimas entre texto y fondo para favorecer la legibilidad. Por ejemplo, evitar combinaciones de baja luminancia, como texto gris claro sobre fondo blanco.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img104.png', alt='' style="max-width: 500px").m-auto
@@ -608,7 +609,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
           .row(titulo="Estados visibles y estructurales").ajuste-cajaAcordion
             p Los componentes deben indicar si se encuentran activos, deshabilitados, presionados o expandidos. Esto puede lograrse mediante cambios visuales y atributos accesibles. 
-            p.mb-3 #[b Por ejemplo], un menú tipo acordeón puede modificar su icono y actualizar el atributo aria-expanded="true" al desplegar el contenido.
+            p.mb-3 #[b Por ejemplo], un menú tipo acordeón puede modificar su icono y actualizar el atributo #[b aria-expanded="true"] al desplegar el contenido.
           .row(titulo="Nombres accesibles mediante atributos ARIA").ajuste-cajaAcordion
             p Cuando un elemento interactivo carece de texto visible, es necesario asignar un nombre accesible mediante aria-label. Esto permite que los lectores de pantalla identifiquen la función del componente. 
             p.mb-0 #[b Ejemplo:]
@@ -623,10 +624,10 @@
             img(src='@/assets/curso/temas/img87.svg', alt='' style="max-width: 85px").m-auto
         .col-xl.mb-4.mb-lg-0
           h4 Atributo #[i aria-label]
-          p.mb-0 Se invita a consultar el recurso sobre el atributo #[b #[i aria-label]], donde se explica su uso para mejorar la accesibilidad en interfaces #[i web] mediante la correcta identificación de elementos interactivos. 
+          p.mb-0 Se invita a consultar el recurso sobre el atributo #[b #[i aria-label]], donde se explica su uso para mejorar la accesibilidad en interfaces web mediante la correcta identificación de elementos interactivos. 
         .col-xl-2
           a.boton.color-acento-botones.texto-negro(:href="('https://developer.mozilla.org/es/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label')" target="_blank" type="website")
-            span Abrir #[i web]
+            span Abrir web
             i.fas.fa-external-link
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -711,7 +712,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Multiplicidad sensorial
-                  p.mb-0 Aplica el enfoque del diseño universal para el Aprendizaje al presentar información mediante distintos canales perceptivos. Por ejemplo, en un examen con tiempo límite puede presentarse una alerta visual, acompañada de un aviso sonoro y un mensaje textual anunciado por tecnologías de asistencia.
+                  p.mb-0 Aplica el enfoque del Diseño Universal para el Aprendizaje al presentar información mediante distintos canales perceptivos. Por ejemplo, en un examen con tiempo límite puede presentarse una alerta visual, acompañada de un aviso sonoro y un mensaje textual anunciado por tecnologías de asistencia.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/img119.png', alt='' style="max-width: 500px").m-auto

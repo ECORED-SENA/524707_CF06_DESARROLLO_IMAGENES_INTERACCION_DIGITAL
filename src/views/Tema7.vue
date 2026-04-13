@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 7
       h1 Herramientas para revisión de accesibilidad
-    p.mb-5 Este es el paso del #[b conocimiento teórico a la auditoría técnica]. No basta con saber que existen las herramientas, sino entender qué errores detecta cada una y cuáles son sus limitaciones. La validación de accesibilidad es un proceso híbrido. Las herramientas automáticas detectan aproximadamente el #[b 30 - 40 %] de los errores; el resto depende de la supervisión asistida y el juicio humano. Estas herramientas de revisión se dividen en #[b automáticas, manuales y asistidas].
+    p.mb-5 Este es el paso del #[b conocimiento teórico a la auditoría técnica]. No basta con saber que existen las herramientas, sino entender qué errores detecta cada una y cuáles son sus limitaciones. La validación de accesibilidad es un proceso híbrido. Las herramientas automáticas detectan aproximadamente el #[b 30-40 %] de los errores; el resto depende de la supervisión asistida y el juicio humano. Estas herramientas de revisión se dividen en #[b automáticas, manuales y asistidas].
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.1 Herramientas automáticas
@@ -44,12 +44,12 @@
                 figure
                   img(src='@/assets/curso/temas/img126.png', alt='' style="max-width: 500px").m-auto
     p El uso sistemático de estas herramientas contribuye a mejorar la calidad técnica de los productos multimedia y a fortalecer el cumplimiento de criterios internacionales de accesibilidad.
-    p.mb-5 Se invita a #[b consultar] el video #[b evaluar accesibilidad a través de Wave], donde se explica el uso de esta herramienta para identificar aspectos de accesibilidad en páginas #[i web]. Ideal para #[b fortalecer la evaluación práctica de accesibilidad digital].
+    p.mb-5 Se invita a consultar el video #[b Evaluar accesibilidad a través de Wave], donde se explica el uso de esta herramienta para identificar aspectos de accesibilidad en páginas web. Ideal para #[b fortalecer la evaluación práctica de accesibilidad digital].
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/60LBU6VEcEI" title="Evaluar accesibilidad a través de Wave"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Evaluar accesibilidad a través de Wave
-    p.mb-5 En el siguiente video, se explica cómo utilizar WCAG Checker para identificar aspectos de accesibilidad en sitios #[i web]. Ideal para fortalecer la evaluación práctica de accesibilidad digital.
+    p.mb-5 En el siguiente video, se explica cómo utilizar #[b WCAG Checker] para identificar aspectos de accesibilidad en sitios web. Ideal para #[b fortalecer la evaluación práctica de accesibilidad digital].
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/yP4VVoNpGno" title="Chequear accesibilidad con WCAG Checker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -67,7 +67,7 @@
               img(src='@/assets/curso/temas/img127.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Contrast Checker (#[i WebAIM])
-            p.mb-0 Herramienta #[i web] que permite validar la relación de contraste mediante el ingreso de códigos de color en formato hexadecimal. Facilita comprobar el cumplimiento de los criterios establecidos en las pautas WCAG.
+            p.mb-0 Herramienta web que permite validar la relación de contraste mediante el ingreso de códigos de color en formato hexadecimal. Facilita comprobar el cumplimiento de los criterios establecidos en las pautas WCAG.
       .py-3.py-md-4(titulo="Color <em>Oracle</em>")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
@@ -90,7 +90,7 @@
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Figura 6.
-          span Percepción de una paleta de colores en personas con deficiencias en la visión del color.
+          span Percepción de una paleta de colores en personas con deficiencias en la visión del color
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/img130.png', alt='Ilustración de interfaz de herramienta de color que presenta una paleta circular en escala de grises junto a un menú de opciones de simulación de visión cromática como deuteranopía, protanopía, tritanopía y modo monocromático. ').m-auto
     <!------------------------------------------ SUBTEMA 3 ------------------------------------------>
@@ -107,7 +107,7 @@
             p.mb-3 Lector de pantalla de carácter comercial ampliamente utilizado en entornos corporativos. Ofrece soporte avanzado para aplicaciones complejas y flujos interactivos extensos.
           .row(titulo="VoiceOver").ajuste-cajaAcordion
             p.mb-3 Tecnología integrada en dispositivos del ecosistema Apple. Permite evaluar accesibilidad en entornos móviles y en interacciones basadas en gestos táctiles.
-          .row(titulo="<em>Web</em> Disability Simulator").ajuste-cajaAcordion
+          .row(titulo="Web Disability Simulator").ajuste-cajaAcordion
             p.mb-3 Extensión de navegador que permite simular diversas condiciones funcionales, como temblores en el cursor, dificultades de lectura o reducción del campo visual.
           .row(titulo="Screen Reader Focus Visualizer").ajuste-cajaAcordion
             p.mb-3 Herramienta que resalta visualmente el elemento que está siendo interpretado por el lector de pantalla, facilitando el proceso de depuración técnica.
@@ -137,19 +137,19 @@
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Contraste cromático]
                     td.ajuste-border-tabla.texto-left Contrast Checker
-                    td.texto-left Verificar el cumplimiento del ratio mínimo de contraste en elementos textuales.
+                    td.texto-left Verificar el cumplimiento del ratio mínimo de contraste en elementos textuales
                   tr
                     td.ajuste-border-tabla.texto-left #[b Etiquetas y atributos ARIA]
                     td.ajuste-border-tabla.texto-left axe DevTools
-                    td.texto-left Confirmar que cada control interactivo cuente con un nombre accesible.
+                    td.texto-left Confirmar que cada control interactivo cuente con un nombre accesible
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b Navegación mediante teclado]
                     td.ajuste-border-tabla.texto-left Uso manual de teclas de navegación
-                    td.texto-left Garantizar la ausencia de bloqueos o “trampas de foco”.
+                    td.texto-left Garantizar la ausencia de bloqueos o “trampas de foco”
                   tr
                     td.ajuste-border-tabla.texto-left #[b Orden del foco]
                     td.ajuste-border-tabla.texto-left WAVE (modo estructura)
-                    td.texto-left Validar la coherencia del flujo de lectura y de interacción.
+                    td.texto-left Validar la coherencia del flujo de lectura y de interacción
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left #[b HTML semántico]
                     td.ajuste-border-tabla.texto-left W3C Validator

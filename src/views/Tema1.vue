@@ -39,7 +39,7 @@
               span.fa-li
                 i.fas.fa-arrow-alt-circle-right
               | Incrementa la motivación y el compromiso del usuario.
-    p.mb-0 En este sentido, la interactividad constituye un componente esencial en productos como cursos e-learning, simuladores, aplicaciones #[i web], recursos educativos digitales, kioscos interactivos y experiencias híbridas que integran fotografía, animación y video. 
+    p.mb-0 En este sentido, la interactividad constituye un componente esencial en productos como cursos e-learning, simuladores, aplicaciones web, recursos educativos digitales, kioscos interactivos y experiencias híbridas que integran fotografía, animación y video. 
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -86,61 +86,61 @@
     .row.justify-content-center.mb-5
       .col-xl-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
-          .row(titulo="Botones").ajuste-cajaAcordion
+          .row(titulo="Botones").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Activan acciones específicas como navegar entre pantallas, iniciar videos o enviar formularios. Pueden presentar estados como #[b normal], #[i hover] (cuando el cursor pasa sobre el elemento), #[b activo y deshabilitado], lo que facilita la retroalimentación funcional al usuario.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img7.png', alt='').m-auto 
-          .row(titulo="Acordeones").ajuste-cajaAcordion
+          .row(titulo="Acordeones").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Agrupan contenido expandible y contribuyen a la organización de información extensa. Favorecen la reducción del desplazamiento en pantalla y permiten jerarquizar secciones temáticas dentro de una misma interfaz.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img8.png', alt='').m-auto 
-          .row(titulo="<em>Sliders</em>").ajuste-cajaAcordion
+          .row(titulo="<em>Sliders</em>").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Permiten desplazar imágenes o bloques de información mediante flechas de navegación o acciones de arrastre. Se emplean para presentar contenidos secuenciales de manera dinámica.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img9.png', alt='').m-auto 
-          .row(titulo="Galería").ajuste-cajaAcordion
+          .row(titulo="Galería").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Organizan imágenes o videos en colecciones navegables. Facilitan el acceso estructurado a recursos visuales y contribuyen a la exploración progresiva del contenido.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img10.png', alt='').m-auto 
-          .row(titulo="<em>Hotspots</em>").ajuste-cajaAcordion
+          .row(titulo="<em>Hotspots</em>").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Zonas activas ubicadas sobre imágenes o ilustraciones que activan información contextual adicional. Favorecen la exploración guiada y la comprensión de elementos complejos.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img11.png', alt='').m-auto 
-          .row(titulo="Formularios").ajuste-cajaAcordion
+          .row(titulo="Formularios").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Componentes clave para recopilar datos del usuario, activar rutas de navegación personalizadas o generar procesos de retroalimentación automática dentro del sistema.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img12.png', alt='').m-auto 
-          .row(titulo="Menús").ajuste-cajaAcordion
+          .row(titulo="Menús").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Estructuran la navegación global del producto multimedia. Pueden configurarse como menús superiores, laterales, tipo hamburguesa o mediante módulos secuenciales que orientan el recorrido formativo.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img13.png', alt='').m-auto 
-          .row(titulo="Bases de datos (nivel básico)").ajuste-cajaAcordion
+          .row(titulo="Bases de datos (nivel básico)").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Permiten almacenar información esencial como el progreso del usuario, las respuestas registradas o los estados de interacción dentro de la experiencia digital.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img14.png', alt='').m-auto 
-          .row(titulo="Marcadores y <em>tracking</em>").ajuste-cajaAcordion
+          .row(titulo="Marcadores y <em>tracking</em>").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Registran el avance del usuario, los elementos consultados y las interacciones realizadas, lo que posibilita la personalización del recorrido y el seguimiento del proceso formativo.
             .col-xl-5.mb-3
               figure
                 img(src='@/assets/curso/temas/img15.png', alt='').m-auto 
-          .row(titulo="Objetos 3D").ajuste-cajaAcordion
+          .row(titulo="Objetos 3D").ajuste-cajaAcordion-1
             .col-xl-7.mb-4
               p.mb-0 Integran experiencias interactivas de mayor complejidad. Estos elementos pueden rotarse, escalarse o manipularse, favoreciendo procesos de exploración espacial y comprensión técnica.
             .col-xl-5.mb-3
