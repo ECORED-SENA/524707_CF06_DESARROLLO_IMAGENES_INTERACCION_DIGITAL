@@ -417,7 +417,7 @@
           h4 Recursos y conformidad 
           p.mb-0 A continuación, se presentan algunos criterios y ejemplos de #[b recursos digitales accesibles], orientados a garantizar su conformidad con los principios POUR y los niveles establecidos por las WCAG.
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Recursos_conformidad.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .box___style_7.mb-0(data-aos="flip-up")

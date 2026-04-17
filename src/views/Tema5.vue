@@ -185,7 +185,7 @@
           h4 Estructura del cuestionario SUS
           p.mb-0 Se invita a revisar el documento #[b Estructura del cuestionario SUS], donde se explica el uso, la escala de valoración y el cálculo del puntaje SUS. Este material ofrece #[b orientaciones y ejemplos prácticos], con el fin de #[b apoyar la evaluación de usabilidad]. 
         .col-xl-2
-          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_Estructura_Cuestionario_SUS.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
