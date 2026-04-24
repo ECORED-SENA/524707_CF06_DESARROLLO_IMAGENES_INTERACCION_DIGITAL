@@ -13,7 +13,7 @@
     p.mb-5 A continuación, se presenta un video sobre el guion de interactividad, en el que se explican sus componentes fundamentales y su importancia en el diseño de productos multimedia.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/usf1zlTZ3xQ" title="¿Qué es un guion de interactividad?"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. ¿Qué es un guion de interactividad?
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
     Separador

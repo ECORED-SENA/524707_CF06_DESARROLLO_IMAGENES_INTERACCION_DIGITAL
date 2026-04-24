@@ -280,11 +280,11 @@
             h4.txt--purpura.mb-4 Contrastes adecuados
             p.mb-0 El diseño visual debe garantizar diferencias suficientes entre fondo y contenido para favorecer la lectura y la identificación de estados.
     p El cumplimiento de estos criterios permite que personas con discapacidad visual, motriz o cognitiva puedan interactuar de manera efectiva con el producto multimedia (W3C, 2025). De esta forma, la integración de interactividad y accesibilidad contribuye a la construcción de entornos digitales inclusivos y pedagógicamente pertinentes.
-    p.mb-5 Se invita a explorar la maquetación básica de componentes interactivos en HTML mediante la construcción guiada de una pantalla sencilla para un recurso educativo:
+    p.mb-5 A continuación, se presenta un ejemplo práctico sobre la creación de un currículum interactivo con herramientas digitales. En este recurso se desarrolla el proceso desde la creación de un repositorio en #[i GitHub], la organización de carpetas y archivos, el uso de #[i Visual Studio Code], la estructura en #[i HTML], estilos en #[i CSS], integración de #[i Bootstrap], diseño adaptable para dispositivos móviles, incorporación de imagen de perfil, datos personales, estudios, experiencia laboral y publicación final en la web mediante #[i GitHub Pages].
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Maquetación básica de componentes interactivos en HTML.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/M_59KlKbf_s" title="Creación del currículo interactivo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Creación del currículo interactivo.
 </template>
 
 <script>
